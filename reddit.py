@@ -20,6 +20,6 @@ def parse_feed(url, url2):
     print("finished")
 
 
-
+#works, but looks odd with entries from different time zones
 if __name__ == '__main__':
     parse_feed('http://feeds.skynews.com/feeds/rss/us.xml', 'http://rssfeeds.usatoday.com/usatoday-newstopstories&x=1')
