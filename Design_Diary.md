@@ -1,0 +1,5 @@
+This week, my group and I decided to take the relaxed approach and work on the basic requirement of parsing two news sites for articles, and comparing and sorting said articles by time published. We finished the project early on the day it was assigned to free up our schedules to work on other classes or other objectives for the project.
+
+I'm not sure if I'm happy with my decision to take the easy route however, as I feel that this project could have been a lot of fun, but I chose to do the base requirement rather than be creative and make something cool. That being said, I don't think that this project was a waste of time by any means, as it introduced me to a topic I've known about and had interest in for a long time.
+
+So far I'm liking the class overall. It's been informative and interesting while also skipping the intense workload that I've come to expect from CS courses, and I think you're doing a great job finding interesting topics for us to explore. I'm excited to see what's to come next, as Python and the projects we're working on have been really interesting so far.
